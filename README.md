@@ -8,9 +8,9 @@
 
 ## Built With
 
-- Rails
-- Webpack
-- Postgresql
+- React
+- Redux
+- CSS
 
 ## Getting Started
 
@@ -18,13 +18,13 @@
 
 ```bash
 $ git clone https://github.com/TracK92/hello_rails_react.git
-$ cd hello_rails_react
+$ cd hello-react-front-end
 ```
 
 ### Run project
 
 ```bash
-  ./bin/dev
+  npm start
 ```
 
 ### Open page in browser
