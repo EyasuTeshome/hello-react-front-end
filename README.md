@@ -7,7 +7,7 @@
 ## Overview
 
 ## Link to backend
-[Link to the backend pull request](https://github.com/EyasuTeshome/hello-rails-backend/pull/1)
+[Link to the backend pull request](https://github.com/EyasuTeshome/hello-rails-backend)
 
 ## Built With
 
